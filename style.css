@@ -1,6 +1,15 @@
 body {
     background-color: #333;
 }
-* {
+h2 {
     color:whitesmoke;
+}
+p {
+    color:whitesmoke;
+}
+
+.view {
+    background-color: #555;
+    color:bisque;
+    border-radius: 15px;
 }
